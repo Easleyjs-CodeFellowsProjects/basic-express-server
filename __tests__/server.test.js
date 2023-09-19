@@ -1,2 +1,7 @@
 const server = require('../lib/server.js');
-console.log(server);
+
+describe('Test for app in our server', () => {
+    test('Should have an app property', () => {
+        expect(typeof server.app).toEqual('function');
+    })
+})
