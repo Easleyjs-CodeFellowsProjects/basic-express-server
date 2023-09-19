@@ -7,6 +7,7 @@ Basic Express Server with One Route
 npm i express cors dotenv jest supertest
 
 ## Render.com URL:
+https://basic-express-server-lx9c.onrender.com/
 
 ## Assignment instructions
 
